@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/construction-website/static/css/main.9a321f7e.css",
+    "main.js": "/construction-website/static/js/main.07bf2b86.js",
+    "static/media/hero-bg.jpg": "/construction-website/static/media/hero-bg.a349391aab34a2325e30.jpg",
+    "index.html": "/construction-website/index.html",
+    "main.9a321f7e.css.map": "/construction-website/static/css/main.9a321f7e.css.map",
+    "main.07bf2b86.js.map": "/construction-website/static/js/main.07bf2b86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a321f7e.css",
+    "static/js/main.07bf2b86.js"
+  ]
+}
