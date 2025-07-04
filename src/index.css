@@ -135,7 +135,7 @@ img {
   background: none;
   border: none;
   font-size: 24px;
-  color: var(--secondary-color);
+  color: #e05d00;
   cursor: pointer;
   display: none;
 }
