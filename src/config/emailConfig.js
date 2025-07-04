@@ -1,5 +1,5 @@
 export const emailConfig = {
-  serviceId: 'YOUR_SERVICE_ID',
-  templateId: 'YOUR_TEMPLATE_ID',
-  publicKey: 'YOUR_PUBLIC_KEY'
+  serviceId: 'service_258g2j9',
+  templateId: 'template_6r0dt4a',
+  publicKey: '_BShWk9pzCAWOCLR5'
 };
