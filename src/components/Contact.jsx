@@ -110,21 +110,21 @@ const Contact = () => {
               <i className="fas fa-map-marker-alt"></i>
               <div>
                 <h4>Our Location</h4>
-                <p>Shiv sai Residency</p>
+                <p>B-408, Shivsai Residency, Palegaon, Ambernath (East), 421501</p>
               </div>
             </div>
             <div className="contact-item">
               <i className="fas fa-phone"></i>
               <div>
                 <h4>Call Us</h4>
-                <p>+917499896192</p>
+                <p>+91 7263948405, +91 9967227652</p>
               </div>
             </div>
             <div className="contact-item">
               <i className="fas fa-envelope"></i>
               <div>
                 <h4>Email Us</h4>
-                <p>suyash84729@gmail.com</p>
+                <p>Integrityconst24@gmail.com</p>
               </div>
             </div>
           </div>

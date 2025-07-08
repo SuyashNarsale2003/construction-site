@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="footer-content">
           <div className="footer-about">
             <Link to="/" className="footer-logo">
-              <img src="/images/logo.png" alt="BuildMaster" />
+              <img src="/images/logo.png" alt="Integrity Constructions" />
             </Link>
             <p className="footer-description">
               Premium construction services with unmatched quality and reliability.
@@ -30,15 +30,15 @@ const Footer = () => {
           <div className="footer-contact">
             <h3 className="footer-title">Contact Us</h3>
             <ul>
-              <li><i className="fas fa-map-marker-alt"></i> 123 Construction Ave</li>
-              <li><i className="fas fa-phone"></i> +917499896192</li>
-              <li><i className="fas fa-envelope"></i> suyash84729@gmail.com</li>
+              <li><i className="fas fa-map-marker-alt"></i> B-408, Shivsai Residency, Palegaon, Ambernath (East), 421501</li>
+              <li><i className="fas fa-phone"></i> +91 7263948405, +91 9967227652</li>
+              <li><i className="fas fa-envelope"></i> Integrityconst24@gmail.com</li>
             </ul>
           </div>
         </div>
         
         <div className="footer-bottom">
-          <p>&copy; {new Date().getFullYear()} BuildMaster Construction</p>
+          <p>&copy; {new Date().getFullYear()} Integrity Constructions</p>
         </div>
       </div>
     </footer>

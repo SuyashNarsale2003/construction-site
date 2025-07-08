@@ -58,15 +58,15 @@ const ContactPage = () => {
             <h2>Get In Touch</h2>
             <div className="contact-item">
               <i className="fas fa-map-marker-alt"></i>
-              <p>Shiv sai residency</p>
+              <p>B-408, Shivsai Residency, Palegaon, Ambernath (East), 421501</p>
             </div>
             <div className="contact-item">
               <i className="fas fa-phone"></i>
-              <p>+917499896192</p>
+              <p>+91 7263948405, +91 9967227652</p>
             </div>
             <div className="contact-item">
               <i className="fas fa-envelope"></i>
-              <p>suyash84729@gmail.com</p>
+              <p>Integrityconst24@gmail.com</p>
             </div>
           </div>
           

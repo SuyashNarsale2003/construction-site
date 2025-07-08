@@ -52,7 +52,7 @@ const Navbar = () => {
       <div className="container">
         <div className="navbar-brand">
           <Link to="/" className="logo">
-            <img src="/images/logo.png" alt="BuildMaster Construction" />
+            <img src="./images/logo.png" alt="Integrity Constructions" />
           </Link>
           <button 
             className="navbar-toggler" 
@@ -86,7 +86,7 @@ const Navbar = () => {
           </ul>
 
           <div className="navbar-cta">
-            <a href="tel:+917499896192" className="btn btn-primary">
+            <a href="tel:+917263948405" className="btn btn-primary">
               <i className="fas fa-phone"></i> Call Us
             </a>
           </div>
